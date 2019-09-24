@@ -6,7 +6,7 @@ class In3C < Formula
 
 
   def install
-	./build_release.sh
+	bin.install "script/build_release"
   end
 
 end
