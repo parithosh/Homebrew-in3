@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="436a0208-700b-4227-b694-4ea74d110a61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/in3-c.rb" beforeDir="false" afterPath="$PROJECT_DIR$/in3-c.rb" afterDir="false" />
     </list>
@@ -55,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569324866107</updated>
-      <workItem from="1569324867233" duration="831000" />
+      <workItem from="1569324867233" duration="1296000" />
     </task>
     <task id="LOCAL-00001" summary="updated sh">
       <created>1569325132511</created>

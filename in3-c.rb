@@ -6,8 +6,8 @@ class In3C < Formula
 
 
   def install
-	system "cd","bin"
-	bin.install "in3"
+	system "ls"
+	bin.install "bin/in3"
   end
 
 end
